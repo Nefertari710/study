@@ -53,13 +53,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "2406f41bb3d114e3",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "695390d96af6093b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbb00b285e9a006",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实习/笔记/终端数据库相关操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 405,
     "collapsed": true
