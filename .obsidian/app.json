@@ -9,5 +9,6 @@
   },
   "attachmentFolderPath": "实习/未命名",
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true
 }

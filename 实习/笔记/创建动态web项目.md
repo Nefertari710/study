@@ -1,20 +1,20 @@
 ## 创建动态web项目
-1. 第一步选择other![[P1.png]]
-2. 在出现的框上面的搜索栏输入web，便会有下面的内容![[LFXICDV5UQM~TLO_ZK]N6$9.png]]
-3. 选择Dynamix Web Project，输入项目名字，选择一个适合的版本![[Pasted image 20220430025347.png]]
-4. 下一步不用动![[H[XZOAWX1A[M]B20VWL99RQ.png]]
-5. 下一步==切记==要勾选下面的方框![[`G9FYDK{[69XB{@)X1HVQ_M.png]]
-6. 点击finish之后会生成一个对话框，选择哪个都可以![[Pasted image 20220430025649.png]]
-7. 创建好的项目效果![[D49TO{WEDA6456Q]@O(AA4V.png]]
+1. 第一步选择other![](../图片资源/创建动态web项目图片资源/P1.png)
+2. 在出现的框上面的搜索栏输入web，便会有下面的内容![](../图片资源/创建动态web项目图片资源/P2.png)
+3. 选择Dynamix Web Project，输入项目名字，选择一个适合的版本![](../图片资源/创建动态web项目图片资源/P3.png)
+4. 下一步不用动![](../图片资源/创建动态web项目图片资源/P4.png)
+5. 下一步==切记==要勾选下面的方框![](../图片资源/创建动态web项目图片资源/P5.png)
+6. 点击finish之后会生成一个对话框，选择哪个都可以![](../图片资源/创建动态web项目图片资源/P6.png)
+7. 创建好的项目效果![](../图片资源/创建动态web项目图片资源/P7.png)
 - 创建后测试环境是否有效
-8. 在WebContent下创建一个jsp文件![[ZPNYW{V{[$MTC}F~ZGIZIG9.png]]
-9. 搜索框中输入jsp，并选择JSP File![[((FD7_]9HK6O%IN(@@LK0NI.png]]
-10. 输入一个jsp文件名![[RRMB]V@7]981I6BG[M9Q7%8.png]]
-11. 下一步没有任何操作![[Pasted image 20220430030345.png]]
-12. 右侧便会生成login.jsp文件![[7ROJLY@TGKZF[OK2QMP2@HE.png]]
-13. 将生成的jsp文件中的所有与编码有关系的都改为UTF-8![[M@2XT@J712R{R]G3KBKO9CT 1.png]]
-14. 在jsp中随便写点内容![[J]B5{UV7IS8FI@LS%@VQ`_6 1.png]]
-15. 之后选择tomcat之后右键点击Add and Remove![[C(UY}8YXW`VE@F@9HF8YVSL.png]]
-16. 双击当前项目![[_@Z$CTSH9~RAI6_F1LN6}75.png]]
-17. 双击后项目就会到右边![[N[THK}E2SW_1RPB[(XZLMH8.png]]
-18. 访问对应项目下的jsp网址就可以知道配置是否成功了![[{%][1WT3{R{8~$YQZJ(}FI7.png]]
+8. 在WebContent下创建一个jsp文件![](../图片资源/创建动态web项目图片资源/P8.png)
+9. 搜索框中输入jsp，并选择JSP File![](../图片资源/创建动态web项目图片资源/P9.png)
+10. 输入一个jsp文件名![](../图片资源/创建动态web项目图片资源/P10.png)
+11. 下一步没有任何操作![](../图片资源/创建动态web项目图片资源/P11.png)
+12. 右侧便会生成login.jsp文件![](../图片资源/创建动态web项目图片资源/P12.png)
+13. 将生成的jsp文件中的所有与编码有关系的都改为UTF-8![](../图片资源/创建动态web项目图片资源/P13.png)
+14. 在jsp中随便写点内容![](../图片资源/创建动态web项目图片资源/P14.png)
+15. 之后选择tomcat之后右键点击Add and Remove![](../图片资源/创建动态web项目图片资源/P15.png)
+16. 双击当前项目![](../图片资源/创建动态web项目图片资源/P16.png)
+17. 双击后项目就会到右边![](../图片资源/创建动态web项目图片资源/P17.png)
+18. 访问对应项目下的jsp网址就可以知道配置是否成功了![](../图片资源/创建动态web项目图片资源/P18.png)
