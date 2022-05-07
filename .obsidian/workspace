@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a6dd7b36608a1d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a238c9c314c66b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "实习/笔记/实习过程.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9014255f809092e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "10edc442399acd77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a729bba74a1a019b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "01c3e4e70447bc31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Mind",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315
+  },
+  "right": {
+    "id": "2406f41bb3d114e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0651f15110c1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40dd391458e10382",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实习/笔记/实习过程.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405,
+    "collapsed": true
+  },
+  "active": "3a238c9c314c66b6",
+  "lastOpenFiles": [
+    "实习/笔记/实习过程.md",
+    "实习/笔记/STS3操作手册.md",
+    "实习/笔记/Build_path.md",
+    "实习/笔记/终端数据库相关操作.md",
+    "实习/笔记/在eclipse中配置和tomcat的集成.md",
+    "实习/笔记/配置文件.md",
+    "实习/笔记/创建动态web项目.md",
+    "实习/图片资源/实习笔记图片资源/第六天/]J`C_{$8EOKZ`25`TL}5644.png",
+    "实习/图片资源/终端数据库相关操作图片资源/]SHC9}{NLVCYUY5MW_{`8MS.png",
+    "实习/图片资源/实习笔记图片资源/第五天/4%DU[%{X(WZ{%P}8{~FV})2.png"
+  ]
+}
