@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "44f2d5e6b48267c9",
+        "id": "11fda4ea9eea42fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "实习/笔记/STS3操作手册.md",
+            "file": "实习/笔记/在eclipse中配置和tomcat的集成.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/笔记/STS3操作手册.md",
+                "file": "实习/笔记/在eclipse中配置和tomcat的集成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 405,
     "collapsed": true
   },
-  "active": "44f2d5e6b48267c9",
+  "active": "11fda4ea9eea42fa",
   "lastOpenFiles": [
-    "实习/笔记/STS3操作手册.md",
-    "实习/图片资源/STS3操作手册/P6.png",
-    "实习/图片资源/STS3操作手册/P5.png",
-    "实习/图片资源/STS3操作手册/P4.png",
-    "实习/图片资源/STS3操作手册/P3.png",
-    "实习/图片资源/STS3操作手册/P2.png",
-    "实习/图片资源/STS3操作手册/P1.png",
-    "实习/笔记/Build_path.md",
-    "实习/图片资源/build_path图片资源/P4.png",
-    "实习/图片资源/build_path图片资源/P3.png"
+    "实习/笔记/在eclipse中配置和tomcat的集成.md",
+    "实习/笔记/实习过程.md",
+    "实习/笔记/配置文件.md",
+    "实习/图片资源/实习笔记图片资源/第一天/AUYXR]`T0$HOLP84P4)UW6G 1.png",
+    "实习/图片资源/实习笔记图片资源/第一天/P9.png",
+    "实习/图片资源/实习笔记图片资源/第一天/P8.png",
+    "实习/图片资源/实习笔记图片资源/第一天/P7.png",
+    "实习/图片资源/实习笔记图片资源/第一天/P6.png",
+    "实习/图片资源/实习笔记图片资源/第一天/P5.png",
+    "实习/图片资源/实习笔记图片资源/第一天/P4.png"
   ]
 }
