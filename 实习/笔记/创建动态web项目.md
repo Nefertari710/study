@@ -1,5 +1,5 @@
 ## 创建动态web项目
-1. 第一步选择other![[%TW)820]`22PIV@F2UXD]@L.png]]
+1. 第一步选择other![[P1.png]]
 2. 在出现的框上面的搜索栏输入web，便会有下面的内容![[LFXICDV5UQM~TLO_ZK]N6$9.png]]
 3. 选择Dynamix Web Project，输入项目名字，选择一个适合的版本![[Pasted image 20220430025347.png]]
 4. 下一步不用动![[H[XZOAWX1A[M]B20VWL99RQ.png]]
