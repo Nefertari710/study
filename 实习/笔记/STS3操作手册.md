@@ -1,15 +1,14 @@
 # STS操作手册
 1. 快速创建Set/Get方法/toString方法 -- 快捷键Alt+Shift+S
-	- ![[(FK~F@%G6EE4US7LJU6NA_S.png]]
-	- ![[EJ7RU39~CC($~%%95)SGO]X.png]]
-	- ![[6)5WT[TA@{ZI%V4ELD[APEQ.png]]
+	- 配图1![](../图片资源/STS3操作手册/P1.png)
+	- 配图2![](../图片资源/STS3操作手册/P2.png)
+	- 配图3![](../图片资源/STS3操作手册/P3.png)
 
-2. Ctrl + Shift + O 快速导包
-	- ![[Z0@MVTV[5CU(SETUXVA[S@0.png]]
+2. Ctrl + Shift + O 快速导包![](../图片资源/STS3操作手册/P4.png)
 
 3. 快速实现接口
-	 -  ![[QD{T6W3ZZHM{R8(0RPHTZPF.png]]
-	- ![[NB$3ZBKUY_SZX2YRJ)E8AXD.png]]
+	 - 配图1![](../图片资源/STS3操作手册/P5.png)
+	- 配图2![](../图片资源/STS3操作手册/P6.png)
 	
 4. Ctrl + d可以删除当前行
 5. Ctrl + m可以切换窗口大小

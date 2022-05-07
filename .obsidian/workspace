@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "实习/笔记/终端数据库相关操作.md",
+            "file": "实习/笔记/STS3操作手册.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/笔记/终端数据库相关操作.md",
+                "file": "实习/笔记/STS3操作手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "44f2d5e6b48267c9",
   "lastOpenFiles": [
-    "实习/笔记/终端数据库相关操作.md",
-    "实习/图片资源/终端数据库相关操作图片资源/P5.png",
-    "实习/图片资源/终端数据库相关操作图片资源/P4.png",
-    "实习/图片资源/终端数据库相关操作图片资源/P3.png",
-    "实习/图片资源/终端数据库相关操作图片资源/P2.png",
-    "实习/图片资源/终端数据库相关操作图片资源/P1.png",
-    "实习/笔记/在eclipse中配置和tomcat的集成.md",
-    "实习/图片资源/在eclipse中配置和tomcat的集成图片资源/P12.png",
-    "实习/图片资源/在eclipse中配置和tomcat的集成图片资源/P11.png",
-    "实习/图片资源/在eclipse中配置和tomcat的集成图片资源/P10.png"
+    "实习/笔记/STS3操作手册.md",
+    "实习/图片资源/STS3操作手册/P6.png",
+    "实习/图片资源/STS3操作手册/P5.png",
+    "实习/图片资源/STS3操作手册/P4.png",
+    "实习/图片资源/STS3操作手册/P3.png",
+    "实习/图片资源/STS3操作手册/P2.png",
+    "实习/图片资源/STS3操作手册/P1.png",
+    "实习/笔记/Build_path.md",
+    "实习/图片资源/build_path图片资源/P4.png",
+    "实习/图片资源/build_path图片资源/P3.png"
   ]
 }
