@@ -1,5 +1,5 @@
 ## 在eclipse中配置和tomcat的集成 
-1. 我们需要点击右上角JAVAEE图标![](../图片资源/在eclipse中配置和tomcat的集成图片资源/GT559BWJ%PQQ%`HL$[UA4FX.png)
+1. 我们需要点击右上角JAVAEE图标https://github.com/Nefertari710/study/blob/eb103bc99849a63bced818987e06c379fc4dba1b/%E5%AE%9E%E4%B9%A0/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/%E5%9C%A8eclipse%E4%B8%AD%E9%85%8D%E7%BD%AE%E5%92%8Ctomcat%E7%9A%84%E9%9B%86%E6%88%90%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/GT559BWJ%25PQQ%25%60HL$%5BUA4FX.png
 2. 如果没有，我们可以通过以下方式添加![[ER76$]Z_6%W1%80SIVZZ1JR.png]]
 3. 点击other之后我们选择JAVAEE![[1[2M9%YTP8IN5~A8~375G~7.png]]
 4. 我们点击右上角图标后会有下面的这个servers出现![[1ZZNB}H1LPE%U$SCJ($JV61.png]]
