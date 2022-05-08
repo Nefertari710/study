@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "实习/笔记/实习过程.md",
+            "file": "实习/笔记/配置文件.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/笔记/实习过程.md",
+                "file": "实习/笔记/配置文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "d83e4aeca8136cca",
   "lastOpenFiles": [
-    "实习/笔记/实习过程.md",
     "实习/笔记/配置文件.md",
+    "实习/笔记/实习过程.md",
     "实习/笔记/创建动态web项目.md",
     "实习/图片资源/创建动态web项目图片资源/M@2XT@J712R{R]G3KBKO9CT.png",
     "实习/图片资源/创建动态web项目图片资源/J]B5{UV7IS8FI@LS%@VQ`_6.png",
