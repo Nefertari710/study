@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "实习/笔记/配置文件.md",
+            "file": "实习/笔记/实习过程.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "6131fb334d9c5fa5"
+      },
+      {
+        "id": "11f9ca71ad0e2d7c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "实习/笔记/实习过程.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "6131fb334d9c5fa5"
       }
     ],
     "direction": "vertical"
@@ -53,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 356,
+    "collapsed": true
   },
   "right": {
     "id": "2406f41bb3d114e3",
@@ -69,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/笔记/配置文件.md",
+                "file": "实习/笔记/实习过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +102,10 @@
     "width": 405,
     "collapsed": true
   },
-  "active": "d83e4aeca8136cca",
+  "active": "11f9ca71ad0e2d7c",
   "lastOpenFiles": [
-    "实习/笔记/配置文件.md",
     "实习/笔记/实习过程.md",
+    "实习/笔记/配置文件.md",
     "实习/笔记/创建动态web项目.md",
     "实习/图片资源/创建动态web项目图片资源/M@2XT@J712R{R]G3KBKO9CT.png",
     "实习/图片资源/创建动态web项目图片资源/J]B5{UV7IS8FI@LS%@VQ`_6.png",
