@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "实习/笔记/在eclipse中创建mavenweb项目.md",
+            "file": "实习/笔记/实习过程.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281,
-    "collapsed": true
+    "width": 281
   },
   "right": {
     "id": "2406f41bb3d114e3",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/笔记/在eclipse中创建mavenweb项目.md",
+                "file": "实习/笔记/实习过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "35f4536c90b7fe51",
   "lastOpenFiles": [
-    "实习/笔记/在eclipse中创建mavenweb项目.md",
     "实习/笔记/实习过程.md",
+    "实习/笔记/STS3操作手册.md",
+    "实习/笔记/eclipse中如何配置maven.md",
+    "实习/笔记/Build_path.md",
+    "实习/笔记/终端数据库相关操作.md",
+    "实习/笔记/在eclipse中配置和tomcat的集成.md",
+    "实习/笔记/在eclipse中创建mavenweb项目.md",
     "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P17.png",
     "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P14.png",
-    "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P13.png",
-    "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P12.png",
-    "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P11.png",
-    "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P10.png",
-    "SMQ%S7QNA9S2D3P4_DL$)5H.png",
-    "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P9.png"
+    "实习/图片资源/在eclipse中创建mavenweb项目图片资源/P13.png"
   ]
 }
